@@ -1,4 +1,4 @@
-# ESLINT GLOBAL (Run lint everywhere which vscode)
+# ESLINT GLOBAL (Run lint everywhere with vscode)
 
 
 ## Install
