@@ -13,6 +13,8 @@
     "rules": {
         "linebreak-style": ["off", "windows"],
         "indent": ["off", 2],
-        "arrow-parens": ["error", "as-needed"]
+        "arrow-parens": ["error", "as-needed"],
+        "comma-dangle": ["off", "never"],
+        "eol-last": ["off", "always"]
     }
 }
