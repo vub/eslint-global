@@ -15,6 +15,7 @@
         "indent": ["off", 2],
         "arrow-parens": ["error", "as-needed"],
         "comma-dangle": ["off", "never"],
-        "eol-last": ["off", "always"]
+        "eol-last": ["off", "always"],
+        "max-len": ["off", { "code": 80 }]
     }
 }
