@@ -16,6 +16,7 @@
         "arrow-parens": ["error", "as-needed"],
         "comma-dangle": ["off", "never"],
         "eol-last": ["off", "always"],
-        "max-len": ["off", { "code": 80 }]
+        "max-len": ["off", { "code": 80 }],
+        "no-param-reassign": "warn"
     }
 }
