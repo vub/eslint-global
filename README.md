@@ -20,3 +20,8 @@ Add config to vscode
 
 4.
 Enjoy!!!
+
+
+## Update rules
+Method 1: Pull new code to get latest changes.
+Method 2: Fork repo & make your own changes. 
